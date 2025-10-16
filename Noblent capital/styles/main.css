@@ -1,0 +1,5 @@
+body { margin: 0; font-family: Inter, sans-serif; background: #000; color: #fff; }
+h1,h2,h3 { color: #d4af37; }
+section { padding: 80px 20px; max-width: 1200px; margin: auto; }
+button { background: #d4af37; color: #111; border: none; border-radius: 8px; padding: 10px 20px; font-weight: 600; cursor: pointer; }
+button:hover { opacity: 0.9; }
